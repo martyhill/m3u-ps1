@@ -5,9 +5,7 @@ Example Usage:
 
 Step 1: Open a Powershell window and change to the topmost directory that contains your MP3 files within/beneath it:
 
-```
-cd c:\users\myname\music
-```
+`cd c:\users\myname\music`
 
 Step 2: Execute the script (with no arguments) to output info for all MP3 files:
 
