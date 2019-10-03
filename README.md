@@ -1,4 +1,4 @@
-# m3u-ps1 (script to be uploaded soon)
+# m3u-ps1
 Powershell script to write (to STDOUT) extended M3U info for MP3 files recursively found within and beneath the current directory.
 
 Example Usage:
